@@ -1,5 +1,5 @@
 
-## Olá pessoas, meu nome é Alexsander Cordeiro (também chamado de Alex)
+## Olá pessoas, meu nome é Alexsander Cordeiro
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-cordeiro&show_icons=true&theme=dark)
